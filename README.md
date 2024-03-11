@@ -1,1 +1,0 @@
-# django-aws-ec2-nginx-gunicorn
